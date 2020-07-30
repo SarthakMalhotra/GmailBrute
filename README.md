@@ -1,15 +1,9 @@
-# Bruteforce Gmail
+# BruteGmail
 
-# Work in Python 2.x or 3.x
+Work in Python 2.x or 3.x
+pkg install git
+git clone https://github.com/SarthakMalhotra/GmailBrute-AScriptToBruteForce-Gmail-Accounts
+cd brutegmail
+python2 (or) python3 BruteGmail.py
 
-# pkg install git
-
-# git clone https://github.com/NeloF4/brutegmail.git
-
-# cd brutegmail
-
-# python2 (or) python3 Hellow.py
-
-# enjoy
-
-# tquuuuuuuuuuu
+# Enjoy Hacking... 
