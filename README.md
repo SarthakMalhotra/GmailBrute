@@ -4,6 +4,12 @@
 
 # How to Install :-
 
+## Run Online :-
+* Go to https://repl.it/@HackerSarthak/GmailBrute
+* You Can Fulscreen It By Streching The Line Between Code and Output ( Optional)
+* Click Run
+* In Wordlsit Option Write ' passwords.txt '
+
 ## Linux :-
 * $ sudo apt-get install git
 * $ sudo apt-get install python
