@@ -18,5 +18,12 @@
 * $ cd brutegmail
 * $ python2 (or) python3 BruteGmail.py
 
+## Windows :-
+
+#### There is a New Sollution To Run These Files in Windows !
+* Go to https://repl.it/@HackerSarthak/GmailBrute
+* You Can Fulscreen It By Streching The Line Between Code and Output ( Optional)
+* Click Run
+* In Wordlsit Option Write ' passwords.txt '
 
 ## Enjoy Hacking... 
